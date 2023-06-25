@@ -4,6 +4,10 @@
 
 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 
+### Source
+
+https://github.com/rnithin133/KDTree
+
 ### It was designed:
 
 * to be working with Unity Vector3 structs, but can be modified to work with any other 3D (or 2D & 4D or higher) struct/arrays
